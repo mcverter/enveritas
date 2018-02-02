@@ -2,6 +2,11 @@ Provides a simple solution for the dragging questions
 
 This exercise took between 2 and 3 hours, but I did not keep track of the time.
 
+RUNNING
+=======
+* npm install
+* npm start
+
 SOLUTION
 ========
 The premise of the answer is as follows:
@@ -19,4 +24,4 @@ ASSUMPTIONS
 OUTSIDE LIBRARIES
 =================
 * This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-* Several draggable libraries are recommended for React, but I followed the instruction to ignore them.
+* Several draggable libraries are recommended for React, but I followed the task instruction to ignore them.
