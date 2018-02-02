@@ -1,6 +1,6 @@
 export function retrieveQuestions(){
   const questionList = [
-    "What is your favorite color",
+    "What is your favorite color?",
     "How many angels dance on the head of a pin?",
     "What is the average wind speed velocity of an unladen swallow?",
     "Why do fools fall in love?",
